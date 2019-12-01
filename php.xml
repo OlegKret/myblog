@@ -1,8 +1,8 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="7ee10fd0-925d-4f1d-b3f4-bd5c43fc7dbf" name="PHP" home="C:\php7\php-7.4.0-src\php.ini" debugger_id="php.debugger.XDebug" debugger_extension="C:\php7" />
+      <interpreter id="aff6b8bc-cee7-47e3-ab74-0a2b9954bd1e" name="PHP (1)" home="C:\php7\php-7.4.0-src\php.ini" debugger_id="php.debugger.XDebug" debugger_extension="C:\php7\php-7.4.0-src\php.ini" />
+    </interpreters>
   </component>
 </application>
